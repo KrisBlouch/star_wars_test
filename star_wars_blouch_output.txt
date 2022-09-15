@@ -1,0 +1,26 @@
+#This is output from star_wars_blouch.py
+#It's in a debuggers, so I left the python and file location header and exit code. 
+
+C:\Users\Owner\PycharmProjects\pythonProject\venv\Scripts\python.exe C:/Users/Owner/Documents/Python/star_wars_blouch.py 
+These are the ships less than 20 meters:
+Y-wing
+X-wing
+TIE Advanced x1
+A-wing
+B-wing
+Naboo fighter
+Jedi starfighter
+Solar Sailer
+Theta-class T-2c shuttle
+Jedi Interceptor
+arc-170
+Belbullab-22 starfighter
+V-wing
+
+These ships were in Episode 3, Revenge of the Sith and are less than 20 meters:
+Y-wing
+X-wing
+A-wing
+B-wing
+
+Process finished with exit code 0
